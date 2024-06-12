@@ -20,7 +20,7 @@ function App() {
   return (
     <>
     <div className="parent">
-<div className="div1" onDoubleClick={()=>{alert("euuuuuuuh")}}>
+<div className="div1" onDoubleClick={()=>{alert("c'est vide ...")}}>
   <img className='icon' src="https://64.media.tumblr.com/7b1a9eb3789efa0e5570c62db6484d0e/tumblr_prx9qfzCdv1ubqz06_540.gif"></img>
   <p>Recycle<br/>Bin</p>
 </div>
