@@ -27,7 +27,7 @@ function App() {
 
 <div className="div2" onClick={showWindow} id='merci'>
     <img  className='icon'src='https://cdn2.steamgriddb.com/icon/2b515e2bdd63b7f034269ad747c93a42/4/512x512.png'></img>
-    <p>A l'intention<br/>de Xefi</p>
+    <p>A l'attention<br/>de Xefi</p>
 </div> 
 
 <div className="div3" >
