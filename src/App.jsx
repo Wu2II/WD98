@@ -20,14 +20,14 @@ function App() {
   return (
     <>
     <div className="parent">
-<div className="div1" onDoubleClick={()=>{alert("c'est vide ...")}}>
+<div className="div1" onClick={()=>{alert("c'est vide ...")}}>
   <img className='icon' src="https://64.media.tumblr.com/7b1a9eb3789efa0e5570c62db6484d0e/tumblr_prx9qfzCdv1ubqz06_540.gif"></img>
   <p>Recycle<br/>Bin</p>
 </div>
 
-<div className="div2" onDoubleClick={showWindow} id='merci'>
+<div className="div2" onClick={showWindow} id='merci'>
     <img  className='icon'src='https://cdn2.steamgriddb.com/icon/2b515e2bdd63b7f034269ad747c93a42/4/512x512.png'></img>
-    <p>Remerciements <br/>Uxen</p>
+    <p>A l'intention<br/>de Xefi</p>
 </div> 
 
 <div className="div3" >

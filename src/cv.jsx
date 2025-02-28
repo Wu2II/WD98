@@ -10,8 +10,8 @@ const Cv = ({onClose}) => {
           <button aria-label="Close"onClick={onClose} />
         </div>
       </div>
-      <p id="merci_txt">Bonjour toute l'equipe d'Uxen <br/> je tiens a vous remercier de m'avoir reçu dans vos locaux
-      ce lundi, j'ai été ravi de faire votre connaissance et de discuter avec vous. Je souhaitais également vous confirmer ma grande motivation pour intégrer votre équipe. <br/>Merci beaucoup !
+      <p id="merci_txt">Bonjour toute l'equipe de XEFI ! <br/> je vous écris ici pour témoigner
+      de ma motivation pour rejoindre votre équipe et progresser ensemble <br/>Merci beaucoup !
         </p>
       </div>
         </>
